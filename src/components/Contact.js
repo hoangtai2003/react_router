@@ -3,7 +3,9 @@ import { Component } from "react";
 class Contact extends Component{
     render() {
         return (
-          <div>Đây là liên hệ</div>
+          <div>
+            <h1>Đây là liên hệ</h1>
+          </div>
         );
       }
 }
