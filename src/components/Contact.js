@@ -3,11 +3,11 @@ import { Component } from "react";
 class Contact extends Component{
     render() {
         return (
-          <div>
-            <h1>Đây là liên hệ</h1>
-          </div>
+            <div>
+                <h1>Đây là liên hệ</h1>
+            </div>
         );
-      }
+    }
 }
 
 
